@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="quiz">QUIZ</string>
+    <string name="khelo">Khelo</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="joe_rogan">Joe Rogan</string>
+    <string name="start">Start</string>
+    <string name="next">Next</string>
+</resources>

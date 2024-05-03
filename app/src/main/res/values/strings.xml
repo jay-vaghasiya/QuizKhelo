@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuizKhelo</string>
+    <string name="quiz">QUIZ</string>
+    <string name="khelo">Khelo</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="joe_rogan">Joe Rogan</string>
+    <string name="start">Start</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+</resources>
